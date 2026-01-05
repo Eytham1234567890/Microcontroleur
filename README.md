@@ -31,11 +31,10 @@ Ce fichier agit comme un **contrat matériel** utilisé par l’ensemble des aut
 
 ---
 
-##  Protection contre les inclusions multiples
-
+## Protection contre les inclusions multiples
 #ifndef __MAIN_H
 #define __MAIN_H
 
+
 Cette protection empêche le fichier d’être inclus plusieurs fois lors de la compilation, ce qui évite les erreurs de redéfinition.
 C’est une bonne pratique standard en langage C.
-
