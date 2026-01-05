@@ -32,7 +32,9 @@ Ce fichier agit comme un **contrat matériel** utilisé par l’ensemble des aut
 ---
 
 ## Protection contre les inclusions multiples
+
 #ifndef __MAIN_H
+
 #define __MAIN_H
 
 
